@@ -1,0 +1,16 @@
+{
+  "name": "DopaMind Vault",
+  "short_name": "DopaMind",
+  "description": "Secure HTML Feature Launcher — 5 Encrypted Slots",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#05050a",
+  "theme_color": "#a855f7",
+  "orientation": "any",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "prefer_related_applications": false
+}
